@@ -127,9 +127,20 @@ video {
 }
 
 @media (max-width: 767px) {
-  #bg-video {
+  /* #bg-video {
     width: auto;
     height: 100%;
+  } */
+  #bg-video {
+    display: none;
+  }
+  header {
+    background-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.8)
+    ),
+    url("assets/img/pexels-hebert-santos-5121547.jpg");
   }
 }
 
