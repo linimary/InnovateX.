@@ -112,6 +112,27 @@ video {
   z-index: -100;
 }
 
+@media (min-aspect-ratio: 16/9) {
+  #bg-video {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media (max-aspect-ratio: 16/9) {
+  #bg-video {
+    width: auto;
+    height: 100%;
+  }
+}
+
+@media (max-width: 767px) {
+  #bg-video {
+    width: auto;
+    height: 100%;
+  }
+}
+
 nav {
   max-width: var(--max-width);
   margin: auto;
