@@ -127,10 +127,6 @@ video {
 }
 
 @media (max-width: 767px) {
-  /* #bg-video {
-    width: auto;
-    height: 100%;
-  } */
   #bg-video {
     display: none;
   }
