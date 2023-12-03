@@ -1,5 +1,4 @@
-InnovateX Company Website
-This website is designed to showcase the company, its products and services, news, reviews, and career opportunities. Below, you'll find a brief description of the structure and functionality of each section. The website uses various technologies and libraries, including HTML, CSS, JavaScript, Swiper.js for the slideshow, and ScrollReveal for scrolling animations.
+InnovateX Company Website - This website is designed to showcase the company, its products and services, news, reviews, and career opportunities. Below, you'll find a brief description of the structure and functionality of each section. The website uses various technologies and libraries, including HTML, CSS, JavaScript, Swiper.js for the slideshow, and ScrollReveal for scrolling animations.
 
 - Navigation menu with a quick access button to various sections of the website.
 - Attractive header panel with a video background presenting the company's vision.
